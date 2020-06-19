@@ -1,0 +1,9 @@
+C:\Users\Семен\Desktop\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Семен\Desktop\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Семен\Desktop\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Семен\Desktop\Excel\Excel\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Семен\Desktop\Excel\Excel\obj\Debug\Excel.csprojAssemblyReference.cache
+C:\Users\Семен\Desktop\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\Семен\Desktop\Excel\Excel\obj\Debug\Excel.csproj.CopyComplete
+C:\Users\Семен\Desktop\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Семен\Desktop\Excel\Excel\obj\Debug\Excel.pdb
