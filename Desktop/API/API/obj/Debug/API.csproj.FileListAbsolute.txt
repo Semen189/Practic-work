@@ -1,0 +1,10 @@
+C:\Users\Семен\Desktop\API\API\bin\Debug\API.exe.config
+C:\Users\Семен\Desktop\API\API\bin\Debug\API.exe
+C:\Users\Семен\Desktop\API\API\bin\Debug\API.pdb
+C:\Users\Семен\Desktop\API\API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Семен\Desktop\API\API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Семен\Desktop\API\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\Семен\Desktop\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\Семен\Desktop\API\API\obj\Debug\API.csproj.CopyComplete
+C:\Users\Семен\Desktop\API\API\obj\Debug\API.exe
+C:\Users\Семен\Desktop\API\API\obj\Debug\API.pdb
